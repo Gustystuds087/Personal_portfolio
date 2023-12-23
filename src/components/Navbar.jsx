@@ -85,7 +85,7 @@ const Navbar = () => {
                 </Links>
                 <Icons>
                     {/* <Icon src="./img/search.png"/> */}
-                    <Button style={{fontSize:"15px"}}> <a href="https://drive.google.com/file/d/1vCahUef0u_RYui-iq7fgR6rl_XNu7Upn/view?usp=sharing" target='_blank' style={{textDecoration:"none",color:"white"}}>Resume</a> </Button>
+                    <Button style={{fontSize:"15px"}}> <a href="https://drive.google.com/file/d/1MemKgwwnDjHbdLMouVh_9gtD40AYCYwe/view?usp=sharing" target='_blank' style={{textDecoration:"none",color:"white"}}>Resume</a> </Button>
                 </Icons>
             </Container>
         </Section>
