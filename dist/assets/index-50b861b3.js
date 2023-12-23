@@ -110,7 +110,7 @@ cursor: pointer;
 `;at.img`
 width: 20px;
 cursor: pointer;
-`;const jI=()=>Qe(FI,{children:$t(BI,{className:"navbar",children:[Qe(GI,{children:Qe(VI,{src:"./img/logoA.png",alt:"logo"})}),Qe(HI,{children:$t(WI,{style:{fontSize:"15px"},children:[" ",Qe("a",{href:"https://drive.google.com/file/d/1vCahUef0u_RYui-iq7fgR6rl_XNu7Upn/view?usp=sharing",target:"_blank",style:{textDecoration:"none",color:"white"},children:"Resume"})," "]})})]})});/**
+`;const jI=()=>Qe(FI,{children:$t(BI,{className:"navbar",children:[Qe(GI,{children:Qe(VI,{src:"./img/logoA.png",alt:"logo"})}),Qe(HI,{children:$t(WI,{style:{fontSize:"15px"},children:[" ",Qe("a",{href:"https://drive.google.com/file/d/1MemKgwwnDjHbdLMouVh_9gtD40AYCYwe/view?usp=sharing",target:"_blank",style:{textDecoration:"none",color:"white"},children:"Resume"})," "]})})]})});/**
  * @license
  * Copyright 2010-2023 Three.js Authors
  * SPDX-License-Identifier: MIT
